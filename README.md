@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a project for the course "Data-Analystics" at Hochschule der Medien Stuttgart.
+- 🌱 I’m currently learning Statistics and Basic Modelling.
+
 <!--
 **skswlal/skswlal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
