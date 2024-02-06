@@ -1,19 +1,14 @@
-### Hi there 👋
+# Penguins web app deployed on Heroku
 
-- 🔭 I’m currently working on a project for the course "Data-Analystics" at Hochschule der Medien Stuttgart.
-- 🌱 I’m currently learning Statistics and Basic Modelling.
+Check out the YouTube video showing the development of this web app at https://youtu.be/zK4Ch6e1zq8
 
-<!--
-**skswlal/skswlal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The deployed web app is live at https://dp-penguins.herokuapp.com/
 
-Here are some ideas to get you started:
+This web app predicts the species of penguins as a function of their input parameters (bill length, bill width, flipper length, body mass, sex and island).
 
-- 🔭 I’m currently working on a project for the course "Data-Analystics" at Hochschule der Medien Stuttgart.
-- 🌱 I’m currently learning Statistics and Basic Modelling.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The web app was built in Python using the following libraries:
+* streamlit
+* pandas
+* numpy
+* scikit-learn
+* pickle
